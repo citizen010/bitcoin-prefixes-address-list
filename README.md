@@ -5,6 +5,6 @@ A Bitcoin address, or simply address, is an identifier of 27-34 alphanumeric cha
 
 There are currently three address formats in use in Bitcoin mainnet:
 
-    P2PKH (Pay 2 Public Key Hash) which begin with the number 1
-    P2SH (Pay 2 Script Hash) type starting with the number 3.
-    Bech32 type starting with bc1.
+1. P2PKH (Pay 2 Public Key Hash) which begin with the number 1
+2. P2SH (Pay 2 Script Hash) type starting with the number 3.
+3. Bech32 type starting with bc1.
