@@ -15,9 +15,9 @@ Script hash ([P2SH address](https://en.bitcoin.it/wiki/Pay_to_script_hash)) | 3 
 SegWit mainnet ([P2WPKH address](https://github.com/bitcoin/bips/blob/master/bip-0173.mediawiki)) | bc1 | bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4
 SegWit Testnet ([P2WPKH address](https://github.com/bitcoin/bips/blob/master/bip-0173.mediawiki)) | tb1 | tb1qw508d6qejxtdg4y5r3zarvary0c5xw7kxpjzsx
 SegWit mainnet ([P2WSH address](https://github.com/bitcoin/bips/blob/master/bip-0173.mediawiki)) | bc1 | bc1qrp33g0q5c5txsp9arysrx4k6zdkfs4nce4xj0gdcccefvpysxf3qccfmv3
-SegWit Testnet ([P2WSH address](https://github.com/bitcoin/bips/blob/master/bip-0173.mediawiki)) | tb1 | <sub>tb1qrp33g0q5c5txsp9arysrx4k6zdkfs4nce4xj0gdcccefvpysxf3q0sl5k7</sub>
-Private key ([WIF](https://en.bitcoin.it/wiki/Wallet_import_format), uncompressed pubkey) | 5 | <sub>5Hwgr3u458GLafKBgxtssHSPqJnYoGrSzgQsPwLFhLNYskDPyyA</sub>
-Private key ([WIF](https://en.bitcoin.it/wiki/Wallet_import_format), compressed pubkey) | K or L | <sub>L1aW4aubDFB7yfras2S1mN3bqg9nwySY8nkoLmJebSLD5BWv3ENZ</sub>
+SegWit Testnet ([P2WSH address](https://github.com/bitcoin/bips/blob/master/bip-0173.mediawiki)) | tb1 | tb1qrp33g0q5c5txsp9arysrx4k6zdkfs4nce4xj0gdcccefvpysxf3q0sl5k7
+Private key ([WIF](https://en.bitcoin.it/wiki/Wallet_import_format), uncompressed pubkey) | 5 | 5Hwgr3u458GLafKBgxtssHSPqJnYoGrSzgQsPwLFhLNYskDPyyA
+Private key ([WIF](https://en.bitcoin.it/wiki/Wallet_import_format), compressed pubkey) | K or L | L1aW4aubDFB7yfras2S1mN3bqg9nwySY8nkoLmJebSLD5BWv3ENZ
 [BIP32](https://en.bitcoin.it/wiki/BIP_0032) pubkey | xpub | xpub661MyMwAqRbcEYS8w7XLSVeEsBXy79zSzH1J8vCdxAZningWLdN3zgtU6LBpB85b3D2yc8sfvZU521AAwdZafEz7mnzBBsz4wKY5e4cp9LB
 [BIP32](https://en.bitcoin.it/wiki/BIP_0032) private key | xprv |  	<sub>xprv9s21ZrQH143K24Mfq5zL5MhWK9hUhhGbd45hLXo2Pq2oqzMMo63oStZzF93Y5wvzdUayhgkkFoicQZcP3y52uPPxFnfoLZB21Teqt1VvEHx</sub>
 Testnet pubkey hash | m or n | <sub>mipcBbFg9gMiCh81Kj8tqqdgoZub1ZJRfn</sub>
