@@ -1,5 +1,3 @@
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-
 # Bitcoin address format
 
 Bitcoin address is an identifier (like account number),starting with 1, 3 or bc1 on the mainnet, containing 27-34 alphanumeric Latin characters and digits (except 0, O, I).
@@ -34,4 +32,4 @@ Testnet BIP32 pubkey | tpub | tpubD6NzVbkrYhZ4WLcz ...
 Testnet BIP32 private key | tprv | tprv8ZgxMBicQKsPcsbC ...
 
 ## License ##
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![MIT license](https://img.shields.io/badge/license-MIT-blue)
