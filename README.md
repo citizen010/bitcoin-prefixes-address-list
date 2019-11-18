@@ -24,5 +24,5 @@ Testnet pubkey hash | m or n | mipcBbFg9gMiCh81Kj8tqqdgoZub1ZJRfn
 Testnet script hash | 2 | 2MzQwSSnBHWHqSAqtTVQ6v47XtaisrJa1Vc
 Testnet Private key (WIF, uncompressed pubkey) | 9 | 92Pg46rUhgTT7romnV7iGW6W1gbGdeezqdbJCzShkCsYNzyyNcc
 Testnet Private key (WIF, compressed pubkey) | c | cNJFgo1driFnPcBdBX8BrJrpxchBWXwXCvNH5SoSkdcF6JXXwHMm
-Testnet BIP32 pubkey | tpub |  	tpubD6NzVbkrYhZ4WLczPJWReQycCJdd6YVWXubbVUFnJ5KgU5MDQrD9
-98ZJLNGbhd2pq7ZtDiPYTfJ7iBenLVQpYgSQqPjUsQeJXH8VQ8xA67D
+Testnet BIP32 pubkey | tpub |  	tpubD6NzVbkrYhZ4WLczPJWReQycCJdd6YVWXubbVUFnJ5KgU5MDQrD998ZJLNGbhd2pq7ZtDiPYTfJ7iBenLVQpYgSQqPjUsQeJXH8VQ8xA67D
+Testnet BIP32 private key | tprv | tprv8ZgxMBicQKsPcsbCVeqqF1KVdH7gwDJbxbzpCxDUsoXHdb6SnTPYxdwSAKDC6KKJzv7khnNWRAJQsRA8BBQyiSfYnRt6zuu4vZQGKjeW4YF
