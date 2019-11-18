@@ -1,3 +1,7 @@
+## Bitcoin address format
+
+Bitcoin address is an identifier (like account number),starting with 1, 3 or bc1 on the mainnet, containing 27-34 alphanumeric Latin characters and digits (except 0, O, I).
+
 # Full list of Bitcoin address prefixes
 
 A __Bitcoin address__, or simply __address__, is an identifier of 27-34 alphanumeric characters, beginning with the number 1, 3 or bc1, that represents a possible destination for a bitcoin payment. Addresses can be generated at no cost by any user of Bitcoin. It is also possible to get a Bitcoin address using an account at an exchange or online wallet service. Also you can generate it offline and store on paper or at any digital storage.
