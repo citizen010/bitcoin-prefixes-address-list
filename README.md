@@ -11,4 +11,4 @@ There are currently three address formats in use in Bitcoin mainnet:
 Example use | Leading symbol(s) | Example
 ----------- | ----------------- | -------
 Pubkey hash ([P2PKH address](https://en.bitcoin.it/wiki/Transaction#Pay-to-PubkeyHash)) | 1 | 17VZNX1SN5NtKa8UQFxwQbFeFc3iqRYhem
-Script hash (P2SH address) | 3 | 3EktnHQD7RiAE6uzMj2ZifT9YgRrkSgzQX
+Script hash ([P2SH address](https://en.bitcoin.it/wiki/Pay_to_script_hash)) | 3 | 3EktnHQD7RiAE6uzMj2ZifT9YgRrkSgzQX
