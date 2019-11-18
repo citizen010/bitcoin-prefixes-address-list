@@ -9,7 +9,7 @@ There are currently three address formats in use in Bitcoin mainnet:
 3. [Bech32](https://en.bitcoin.it/wiki/Bech32) type starting with bc1.
 
 Example use | Leading symbol(s) | Example
------------ | ----------------- | -------
+----------- | :---------------: | -------
 Pubkey hash ([P2PKH address](https://en.bitcoin.it/wiki/Transaction#Pay-to-PubkeyHash)) | 1 | 17VZNX1SN5NtKa8UQFxwQbFeFc3iqRYhem
 Script hash ([P2SH address](https://en.bitcoin.it/wiki/Pay_to_script_hash)) | 3 | 3EktnHQD7RiAE6uzMj2ZifT9YgRrkSgzQX
 SegWit mainnet ([P2WPKH address](https://github.com/bitcoin/bips/blob/master/bip-0173.mediawiki)) | bc1 | bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kv8f3t4
