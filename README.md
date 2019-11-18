@@ -1,5 +1,7 @@
 # Bitcoin address format
 
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
 Bitcoin address is an identifier (like account number),starting with 1, 3 or bc1 on the mainnet, containing 27-34 alphanumeric Latin characters and digits (except 0, O, I).
 
 # Full list of Bitcoin address prefixes
