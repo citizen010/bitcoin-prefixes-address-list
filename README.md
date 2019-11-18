@@ -7,7 +7,7 @@ There are currently three address formats in use in Bitcoin mainnet:
 1. P2PKH (Pay 2 Public Key Hash) which begin with the number 1
 2. P2SH (Pay 2 Script Hash) type starting with the number 3.
 3. [Bech32](https://en.bitcoin.it/wiki/Bech32) type starting with bc1.
-
+```
 Example use | Leading symbol(s) | Example
 ----------- | ----------------- | -------
 Pubkey hash ([P2PKH address](https://en.bitcoin.it/wiki/Transaction#Pay-to-PubkeyHash)) | 1 | 17VZNX1SN5NtKa8UQFxwQbFeFc3iqRYhem
@@ -26,3 +26,4 @@ Testnet Private key (WIF, uncompressed pubkey) | 9 | 92Pg46rUhgTT7romnV7iGW6W1gb
 Testnet Private key (WIF, compressed pubkey) | c | cNJFgo1driFnPcBdBX8BrJrpxchBWXwXCvNH5SoSkdcF6JXXwHMm
 Testnet BIP32 pubkey | tpub |  	tpubD6NzVbkrYhZ4WLczPJWReQycCJdd6YVWXubbVUFnJ5KgU5MDQrD998ZJLNGbhd2pq7ZtDiPYTfJ7iBenLVQpYgSQqPjUsQeJXH8VQ8xA67D
 Testnet BIP32 private key | tprv | tprv8ZgxMBicQKsPcsbCVeqqF1KVdH7gwDJbxbzpCxDUsoXHdb6SnTPYxdwSAKDC6KKJzv7khnNWRAJQsRA8BBQyiSfYnRt6zuu4vZQGKjeW4YF
+```
