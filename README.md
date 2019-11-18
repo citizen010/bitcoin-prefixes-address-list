@@ -18,3 +18,4 @@ SegWit mainnet ([P2WSH address](https://github.com/bitcoin/bips/blob/master/bip-
 SegWit Testnet ([P2WSH address](https://github.com/bitcoin/bips/blob/master/bip-0173.mediawiki)) | tb1 | tb1qrp33g0q5c5txsp9arysrx4k6zdkfs4nce4xj0gdcccefvpysxf3q0sl5k7
 Private key ([WIF](https://en.bitcoin.it/wiki/Wallet_import_format), uncompressed pubkey) | 5 | 5Hwgr3u458GLafKBgxtssHSPqJnYoGrSzgQsPwLFhLNYskDPyyA
 Private key ([WIF](https://en.bitcoin.it/wiki/Wallet_import_format), compressed pubkey) | K or L | L1aW4aubDFB7yfras2S1mN3bqg9nwySY8nkoLmJebSLD5BWv3ENZ
+[BIP32](https://en.bitcoin.it/wiki/BIP_0032) pubkey | xpub |  	xpub661MyMwAqRbcEYS8w7XLSVeEsBXy79zSzH1J8vCdxAZningWLdN3zgtU6LBpB85b3D2yc8sfvZU521AAwdZafEz7mnzBBsz4wKY5e4cp9LB
