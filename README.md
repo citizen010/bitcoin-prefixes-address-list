@@ -18,11 +18,11 @@ SegWit mainnet ([P2WSH address](https://github.com/bitcoin/bips/blob/master/bip-
 SegWit Testnet ([P2WSH address](https://github.com/bitcoin/bips/blob/master/bip-0173.mediawiki)) | tb1 | tb1qrp33g0q5c5txsp9arysrx4k6zdkfs4nce4xj0gdcccefvpysxf3q0sl5k7
 Private key ([WIF](https://en.bitcoin.it/wiki/Wallet_import_format), uncompressed pubkey) | 5 | 5Hwgr3u458GLafKBgxtssHSPqJnYoGrSzgQsPwLFhLNYskDPyyA
 Private key ([WIF](https://en.bitcoin.it/wiki/Wallet_import_format), compressed pubkey) | K or L | L1aW4aubDFB7yfras2S1mN3bqg9nwySY8nkoLmJebSLD5BWv3ENZ
-[BIP32](https://en.bitcoin.it/wiki/BIP_0032) pubkey | xpub | <sub>xpub661MyMwAqRbcEYS8w7XLSVeEsBXy79zSzH1J8vCdxAZningWLdN3zgtU6LBpB85b3D2yc8sfvZU521AAwdZafEz7mnzBBsz4wKY5e4cp9LB</sub>
-[BIP32](https://en.bitcoin.it/wiki/BIP_0032) private key | xprv |  	<sub>xprv9s21ZrQH143K24Mfq5zL5MhWK9hUhhGbd45hLXo2Pq2oqzMMo63oStZzF93Y5wvzdUayhgkkFoicQZcP3y52uPPxFnfoLZB21Teqt1VvEHx</sub>
+[BIP32](https://en.bitcoin.it/wiki/BIP_0032) pubkey | xpub | xpub661MyMwAqRbcEYS8w7XLSVeEsB...
+[BIP32](https://en.bitcoin.it/wiki/BIP_0032) private key | xprv | xprv9s21ZrQH143K24Mfq5zL5MhWK9...
 Testnet pubkey hash | m or n | mipcBbFg9gMiCh81Kj8tqqdgoZub1ZJRfn
 Testnet script hash | 2 | 2MzQwSSnBHWHqSAqtTVQ6v47XtaisrJa1Vc
 Testnet Private key (WIF, uncompressed pubkey) | 9 | 92Pg46rUhgTT7romnV7iGW6W1gbGdeezqdbJCzShkCsYNzyyNcc
 Testnet Private key (WIF, compressed pubkey) | c | cNJFgo1driFnPcBdBX8BrJrpxchBWXwXCvNH5SoSkdcF6JXXwHMm
-Testnet BIP32 pubkey | tpub |  	<sub>tpubD6NzVbkrYhZ4WLczPJWReQycCJdd6YVWXubbVUFnJ5KgU5MDQrD998ZJLNGbhd2pq7ZtDiPYTfJ7iBenLVQpYgSQqPjUsQeJXH8VQ8xA67D</sub>
-Testnet BIP32 private key | tprv | <sub>tprv8ZgxMBicQKsPcsbCVeqqF1KVdH7gwDJbxbzpCxDUsoXHdb6SnTPYxdwSAKDC6KKJzv7khnNWRAJQsRA8BBQyiSfYnRt6zuu4vZQGKjeW4YF</sub>
+Testnet BIP32 pubkey | tpub |  	tpubD6NzVbkrYhZ4WLczPJWReQycCJ...
+Testnet BIP32 private key | tprv | tprv8ZgxMBicQKsPcsbCVeqqF1KVdH...
