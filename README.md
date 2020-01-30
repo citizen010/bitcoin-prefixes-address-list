@@ -37,4 +37,4 @@ Testnet BIP32 private key | tprv | tprv8ZgxMBicQKsPcsbC ...
 
 # Hierarchical Deterministic Wallet
 
-A HD wallet, or hierarchical deterministic wallet is a system of deriving keys from a single starting point known as a seed. The seed allows a user to easily back up and restore a wallet without needing any other information and can in some cases allow the creation of public addresses without the knowledge of the private key. Seeds are typically serialized into human-readable words in a Seed phrase. 
+A HD wallet, or [hierarchical deterministic](https://en.bitcoin.it/wiki/Deterministic_wallet) wallet is a system of deriving keys from a single starting point known as a seed. The seed allows a user to easily back up and restore a wallet without needing any other information and can in some cases allow the creation of public addresses without the knowledge of the private key. Seeds are typically serialized into human-readable words in a Seed phrase. 
