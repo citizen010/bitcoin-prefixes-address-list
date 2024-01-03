@@ -13,7 +13,7 @@ There are currently four address formats in use in Bitcoin mainnet:
 1. P2PKH (Pay 2 Public Key Hash) which begin with the number 1
 2. P2SH (Pay 2 Script Hash) type starting with the number 3.
 3. [Bech32](https://en.bitcoin.it/wiki/Bech32) type starting with bc1.
-4. [Taproot](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki) type sarting with bc1p.
+4. [Taproot](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki) type starting with bc1p.
 
 Example use | Leading symbol(s) | Example
 ----------- | :---------------: | -------
